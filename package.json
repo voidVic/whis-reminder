@@ -9,7 +9,12 @@
   "author": "Ankit Sharma (vicnwz@gmail.com)",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
+    "config": "^3.2.5",
     "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "natural": "^0.6.3",
+    "natural-brain": "^0.3.2",
     "request": "^2.88.0"
   }
 }
